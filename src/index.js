@@ -22,6 +22,7 @@ root.render(
 <Students/>
 <UsComponent/>
 <USWithObject/>
+<ParentComponent/>
  </div>
    
 );
